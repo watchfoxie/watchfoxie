@@ -1,6 +1,6 @@
 ### Glad to see you there  👋
 
-![](https://komarev.com/ghpvc/?username=watchfoxie&color=00a9ff&style=for-the-badge&label=VIZUALIZARI)
+![](https://komarev.com/ghpvc/?username=watchfoxie&color=00a9ff&style=for-the-badge&label=VIZUALIZARI PROFIL)
 
 
 <!--
