@@ -1,5 +1,7 @@
 ### Glad to see you there  👋
 
+![](https://komarev.com/ghpvc/?username=watchfoxie&color=00a9ff&style=for-the-badge&label=VIZUALIZARI)
+
 
 <!--
 **watchfoxie/watchfoxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
